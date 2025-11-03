@@ -1,6 +1,6 @@
 # Solve-Wumpus-World-Problem-using-Python-demonstrating-Inferences-from-Propositional-Logic
-## Name:
-## Register Number:
+## Name: CHANDRAPRIYADHARSHINI C
+## Register Number: 212223240019
 ## Aim:
 To solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 
